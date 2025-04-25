@@ -1,0 +1,7 @@
+name: HikaBrain
+version: '${project.version}'
+main: lemon.yellow.hikabrain.HikaBrain
+api-version: '1.20'
+depend: [WorldEdit]
+commands:
+  arena:
